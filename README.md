@@ -5,8 +5,8 @@
 
 A lovely programmer from China, currently working on CV research at Baidu.
 
-- 🔭 I’m currently working on CV.
-- 🌱 I’m currently learning Clean Python&Financial management.
+- 🔭 I’m currently working on CV
+- 🌱 I’m currently learning Clean Python&Financial management
 - 💬 Read more about my [Blog](https://tramac.github.io/)
 - 📫 Talk with me by [Email](tramac@yeah.net)
 - 😄 Follow me on [Zhihu](https://www.zhihu.com/people/qia-ka-ka-23)
