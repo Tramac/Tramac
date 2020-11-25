@@ -1,13 +1,20 @@
-### Hi there 👋
+### Hi, I'm Tramac 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tramac&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Tramac's github stats"/>
+
+
+A lovely programmer from China, currently working on CV research at Baidu.
+
+- 🔭 I’m currently working on CV.
+- 🌱 I’m currently learning Clean Python&Financial management.
+- 💬 Read more about my [Blog](https://tramac.github.io/)
+- 📫 Talk with me by [Email](tramac@yeah.net)
+- 😄 Follow me on [Zhihu](https://www.zhihu.com/people/qia-ka-ka-23)
 
 <!--
 **Tramac/Tramac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
