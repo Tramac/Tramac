@@ -10,6 +10,7 @@ A lovely programmer from China, currently working on CV research at Baidu.
 - 💬 Read more about my [Blog](https://tramac.github.io/)
 - 📫 Talk with me by [Email](tramac@yeah.net)
 - 😄 Follow me on [Zhihu](https://www.zhihu.com/people/qia-ka-ka-23)
+- ⚡ [Hidden corner](https://tramac.github.io/2021/03/26/hidden-corner/)
 
 <!--
 **Tramac/Tramac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
