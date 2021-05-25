@@ -2,7 +2,7 @@
 
 <p> 
   <a href="https://github.com/tramac?tab=followers"> <img src="https://img.shields.io/github/stars/tramac?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
-  <a href="tramac0204@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email">
+  <a href="mailto:tramac0204@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email">
   <a href="https://www.zhihu.com/people/qia-ka-ka-23"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="20px" alt="知乎"></a>
   <a href=""> <img src="https://img.shields.io/badge/Major-CV-black?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
   <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
