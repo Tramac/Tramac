@@ -1,9 +1,13 @@
 ### Hi, I'm Tramac 👋
 
-![](https://img.shields.io/badge/Major-CV-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
-![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
-![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
-![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
+<p> 
+  <a href="https://github.com/tramac?tab=followers"> <img src="https://img.shields.io/github/stars/tramac?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
+  <a href="tramac0204@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email">
+  <a href="https://www.zhihu.com/people/qia-ka-ka-23"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="20px" alt="知乎"></a>
+  <a href=""> <img src="https://img.shields.io/badge/Major-CV-black?style=plastic&logo=ABB%20RobotStudio&logoColor=ffffff" height="20px"> </a>
+  <a href=""> <img src="https://img.shields.io/badge/Use-Python-0076ab?style=plastic&logo=Python&logoColor=ffffff" height="20px"> </a>
+  <a href=""> <img src="https://img.shields.io/badge/Learn-C++-blueviolet?style=plastic&logo=Visual%20Studio%20Code&logoColor=ffffff" height="20px"> </a>
+</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tramac&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Tramac's github stats"/>
 
