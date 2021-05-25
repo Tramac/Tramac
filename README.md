@@ -1,5 +1,10 @@
 ### Hi, I'm Tramac 👋
 
+![](https://img.shields.io/badge/Major-CV-609926?style=flat&logo=ABB%20RobotStudio&logoColor=ffffff)
+![](https://img.shields.io/badge/Use-Python-0076ab?style=flat&logo=Python&logoColor=ffffff)
+![](https://img.shields.io/badge/Learn-C++-blueviolet?style=flat&logo=Visual%20Studio%20Code&logoColor=ffffff)
+![](https://img.shields.io/badge/OS-Linux-orange?style=flat&logo=Linux&logoColor=ffffff)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tramac&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Tramac's github stats"/>
 
 
