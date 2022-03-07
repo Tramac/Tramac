@@ -1,5 +1,7 @@
 ### Hi, I'm Tramac 👋
 
+A lovely programmer from China, currently working on CV research at Baidu.
+
 <p> 
   <a href="https://github.com/tramac?tab=followers"> <img src="https://img.shields.io/github/stars/tramac?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
   <a href="mailto:tramac0204@gmail.com"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="20px" alt="Email"> </a>
@@ -12,8 +14,6 @@
   -->
 </p>
   
-A lovely programmer from China, currently working on CV research at Baidu.
-
 <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=Tramac&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=prs&include_all_commits=true&count_private=true" alt="Tramac's github stats"/>
 
 
