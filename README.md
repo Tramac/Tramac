@@ -1,6 +1,6 @@
 ### Hi, I'm Tramac 👋
 
-A lovely programmer from China, currently working on CV research at Baidu.
+A programmer from China, currently working on CV research at Baidu.
 
 <p> 
   <a href="https://github.com/tramac?tab=followers"> <img src="https://img.shields.io/github/stars/tramac?label=Stars&style=plastic" height="20px" alt="github follow" /> </a>
